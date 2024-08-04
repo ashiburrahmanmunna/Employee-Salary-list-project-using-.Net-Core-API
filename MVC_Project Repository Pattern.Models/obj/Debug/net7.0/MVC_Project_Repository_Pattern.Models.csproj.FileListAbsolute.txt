@@ -1,0 +1,12 @@
+C:\Mahin Project\MVC_Project Repository Pattern\MVC_Project Repository Pattern.Models\bin\Debug\net7.0\MVC_Project_Repository_Pattern.Models.deps.json
+C:\Mahin Project\MVC_Project Repository Pattern\MVC_Project Repository Pattern.Models\bin\Debug\net7.0\MVC_Project_Repository_Pattern.Models.dll
+C:\Mahin Project\MVC_Project Repository Pattern\MVC_Project Repository Pattern.Models\bin\Debug\net7.0\MVC_Project_Repository_Pattern.Models.pdb
+C:\Mahin Project\MVC_Project Repository Pattern\MVC_Project Repository Pattern.Models\obj\Debug\net7.0\MVC_Project_Repository_Pattern.Models.csproj.AssemblyReference.cache
+C:\Mahin Project\MVC_Project Repository Pattern\MVC_Project Repository Pattern.Models\obj\Debug\net7.0\MVC_Project_Repository_Pattern.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mahin Project\MVC_Project Repository Pattern\MVC_Project Repository Pattern.Models\obj\Debug\net7.0\MVC_Project_Repository_Pattern.Models.AssemblyInfoInputs.cache
+C:\Mahin Project\MVC_Project Repository Pattern\MVC_Project Repository Pattern.Models\obj\Debug\net7.0\MVC_Project_Repository_Pattern.Models.AssemblyInfo.cs
+C:\Mahin Project\MVC_Project Repository Pattern\MVC_Project Repository Pattern.Models\obj\Debug\net7.0\MVC_Project_Repository_Pattern.Models.csproj.CoreCompileInputs.cache
+C:\Mahin Project\MVC_Project Repository Pattern\MVC_Project Repository Pattern.Models\obj\Debug\net7.0\MVC_Project_Repository_Pattern.Models.dll
+C:\Mahin Project\MVC_Project Repository Pattern\MVC_Project Repository Pattern.Models\obj\Debug\net7.0\refint\MVC_Project_Repository_Pattern.Models.dll
+C:\Mahin Project\MVC_Project Repository Pattern\MVC_Project Repository Pattern.Models\obj\Debug\net7.0\MVC_Project_Repository_Pattern.Models.pdb
+C:\Mahin Project\MVC_Project Repository Pattern\MVC_Project Repository Pattern.Models\obj\Debug\net7.0\ref\MVC_Project_Repository_Pattern.Models.dll
